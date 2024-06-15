@@ -1,6 +1,7 @@
 ### Hi there 👋
  
 🎓 CEFET MG - Informática
+
 📚 PUC - Engenharia da Computação
 
 💼 Atualmente trabalhando na GEOSOL Geologia e Sondagens S.A.
