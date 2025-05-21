@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem vindo! 👋
  
 🎓 CEFET MG - Informática
 
