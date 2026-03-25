@@ -10,12 +10,11 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://u.cubeupload.com/ddavidi/WhatsAppImage2026032.jpeg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🇧🇷 Olá! Sou o David Nunes Ribeiro (mas pode me chamar de DD). Sou Técnico em Informática pelo CEFET-MG e atualmente curso Engenharia da Computação na PUC Minas, enquanto atuo como Trainee em Engenharia de Software na LEVTY. Gosto de explorar o desenvolvimento de ponta a ponta, criando desde aplicações mobile e sistemas corporativos até projetos envolvendo eletrônica e desenvolvimento de jogos. Sou sempre movido pela curiosidade de transformar ideias complexas em código real.
 - 🇺🇸 Hi there! I'm David Nunes Ribeiro (but you can call me DD). I hold a technical degree in IT from CEFET-MG and I'm currently studying Computer Engineering at PUC Minas, while working as a Software Engineer Trainee at LEVTY. I enjoy exploring end-to-end development, building everything from mobile apps and enterprise systems to projects involving electronics and game development. I'm always driven by the curiosity to turn complex ideas into real code.
-
 
 ## 🧠 My Focus Areas
 - 🤖 Artificial Intelligence & Data Analysis
@@ -27,6 +26,15 @@
 - 🎮 Game Development
 - 🌳 Data Structures & Algorithms
 
+## 🏆 Awards & Highlights
+
+### ☕ [Smart Coffee Machine IoT](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2025-1-3-iot-t1-g1-coffee-machine)
+- 🇧🇷 **Projeto Destaque e Inovador:** Vencedor como o melhor projeto geral e inovador entre todos os destaques do curso de Engenharia da Computação.
+- 🇺🇸 **Highlight & Innovative Project:** Winner as the best overall and innovative project among all Computer Engineering course highlights.
+
+### 🤖 [Macaco Amarelo - Robô Sumô](https://github.com/Ddavidi/macaco-amarelo-robochallenge-2025)
+- 🇧🇷 **Campeão da Competição (Classe 0,5kg):** 1º Lugar no PUC Minas RoboChallenge 2025.
+- 🇺🇸 **Competition Champion (0.5kg Class):** 1st Place at PUC Minas RoboChallenge 2025.
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -38,7 +46,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Ddavidi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="David Nunes Ribeiro's GitHub Trophies" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -73,4 +80,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
